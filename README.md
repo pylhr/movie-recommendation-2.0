@@ -1,0 +1,1 @@
+This is a movie recommendation app with vector embedding. This one is an update on ht eprevious one that I built.
